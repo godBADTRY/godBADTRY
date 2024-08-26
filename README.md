@@ -1,3 +1,3 @@
 ## Hi, Im [BADTRY](https://godbadtry.github.io/) 👋
 
-<img src="https://imgur.com/a/fsvWq8f">
+<img src="https://imgur.com/vxaPhBd.png">
