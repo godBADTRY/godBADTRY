@@ -1,6 +1,6 @@
 
 <div aling="center">
-  <h1>Hi, Im [BADTRY](https://godbadtry.github.io/) 👋</h1>
+  <h1>Hi, Im <a href="https://godbadtry.github.io/">BADTRY</a> 👋</h1>
 </div>
 
 <img src="https://imgur.com/vxaPhBd.png">
@@ -28,7 +28,7 @@
                <br>
 <h3 align="center">goCracker</h3>
 <div align="center">                                       
-<a href="https://github.com/godBADTRY/goCracker" target="_blank"><img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" width="400" alt="goCracker"></a>
+<a href="https://github.com/godBADTRY/goCracker" target="_blank"><img src="https://cyberhoot.com/wp-content/uploads/2020/06/hacker-1024x576.png" width="400" alt="goCracker"></a>
 <br>
 </div>                                                             
 </table>                                                                                 
