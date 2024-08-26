@@ -28,7 +28,7 @@
 <h3 align="center">goCracker</h3>
 <div align="center">                                       
 <a href="https://github.com/godBADTRY/goCracker" target="_blank"><img src="https://cyberhoot.com/wp-content/uploads/2020/06/hacker-1024x576.png" width="400" alt="goCracker"></a>
-<br>
+<p>
+</p>
 </div>                                                             
 </table>                                                                                 
-<br>
