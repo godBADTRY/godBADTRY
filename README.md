@@ -3,7 +3,7 @@
   <h1>Hi, Im <a href="https://godbadtry.github.io/">BADTRY</a> 👋</h1>
 </div>
 
-<img src="https://imgur.com/vxaPhBd.png" alt="banner" width="700" height="500">
+<img src="https://imgur.com/vxaPhBd.png" alt="banner" width="1200" height="400">
 
 ## About me
 
