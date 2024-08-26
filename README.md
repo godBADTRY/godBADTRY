@@ -1,3 +1,3 @@
 ## Hi, Im [BADTRY](https://godbadtry.github.io/) 👋
 
-![banner]({{ '/img/badtry.png' }})
+<img src="https://github.com/godBADTRY/godBADTRY/tree/main/img/badtry.png">
