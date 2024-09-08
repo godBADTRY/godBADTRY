@@ -1,6 +1,6 @@
 
 <div aling="center">
-  <h1>Hi, Im <a href="https://godbadtry.github.io/">BADTRY</a> 👋</h1>
+  <h1 aling="center">Hi, Im <a href="https://godbadtry.github.io/">BADTRY</a> 👋</h1>
 </div>
 
 <img src="https://imgur.com/vxaPhBd.png" alt="banner">
