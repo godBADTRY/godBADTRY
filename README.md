@@ -1,7 +1,4 @@
-
-<div aling="center">
-  <h1 aling="center">Hi, Im <a href="https://godbadtry.github.io/">BADTRY</a> 👋</h1>
-</div>
+<h1 aling="center">Hi, Im <a href="https://godbadtry.github.io/">BADTRY</a> 👋</h1>
 
 <img src="https://imgur.com/vxaPhBd.png" alt="banner">
 
