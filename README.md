@@ -1,4 +1,4 @@
-<h1 align="center">BADTRY</h1>
+<h1 align="center">Hi! Im <a href="https://godbadtry.github.io/about/">BADTRY</a>👋</h1>
 
 <img src="https://imgur.com/vxaPhBd.png" alt="banner">
 
