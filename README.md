@@ -1,6 +1,6 @@
 <h1 align="center">Hi! Im <a href="https://godbadtry.github.io/about/">BADTRY</a>👋</h1>
 
-<img src="https://imgur.com/vxaPhBd.png" alt="banner">
+<img src="https://imgur.com/a/YcJPZPE" alt="banner">
 
 ## About me
 
